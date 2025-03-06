@@ -1,0 +1,10 @@
+1. Why did you choose this dataset?
+
+
+
+2. What is your conclusion upon conducting linear regression on this dataset?
+
+
+
+3. How relevant is linear regression today?
+
